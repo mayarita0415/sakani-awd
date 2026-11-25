@@ -1,10 +1,10 @@
-package tn.esprit.mocroservice2;
+package tn.esprit.apigateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Mocroservice2ApplicationTests {
+class ApiGatewayApplicationTests {
 
     @Test
     void contextLoads() {
